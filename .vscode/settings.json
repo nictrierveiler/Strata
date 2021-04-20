@@ -1,0 +1,26 @@
+{   "explorer.compactFolders": false,
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.port": 8080,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "~/../../css/"
+        },
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../../css/"
+        },],
+    
+
+        "liveSassCompile.settings.includeItems": [
+            "sass/main.scss",
+            
+        ]
+    
+    
+    
+}
+

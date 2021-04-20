@@ -1,0 +1,16 @@
+#
+# Folders
+ 
+.vs/
+.idea/
+bin/
+obj/
+node_modules/
+build/
+ 
+#
+# Files 
+.DS_Store
+*.user
+*.log
+!prototype/static/.gitkeep
